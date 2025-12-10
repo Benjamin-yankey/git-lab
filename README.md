@@ -89,12 +89,12 @@ git reflog show --all
 
 ### Git Config History
 
-![Script Execution](gitConfig.png)
+![Script Execution](screenshot/gitConfig.png)
 
 ### Git Init History
 
-![Script Execution](gitinit.png)
+![Script Execution](screenshot/gitinit.png)
 
 ### Screenshot Commit History and Merge History
 
-![Script Execution](LOGSHOW.png)
+![Script Execution](screenshot/LOGSHOW.png)
